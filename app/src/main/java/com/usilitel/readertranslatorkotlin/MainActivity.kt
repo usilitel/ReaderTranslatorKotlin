@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         // Example of a call to a native method
         sample_text.text = stringFromJNI()
     }
+    // test commit
 
     /**
      * A native method that is implemented by the 'native-lib' native library,
